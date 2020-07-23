@@ -1,3 +1,5 @@
+PEMROGRAMAN C++ 
+
 OVERVIEW
 
 Disini kami membuat aplikasi tiket pesawat, tujuan aplikasinya supaya mempermudah dalam input data, misal dalam menentukan kelas pesawat, jumlah penumpang, tujuan pesawat, dll. Aplikasi ini dibuat dengan input nama, tujuan pesawat, nama pesawat, kelas dan jumlah pemesanan. kemudian akan ditampilkan data yang diinput lengkap dengan harga total tiket pesawat, lalu ke fitur uang bayar dan uang kembalian.
